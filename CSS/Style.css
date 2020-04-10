@@ -1,0 +1,36 @@
+body{
+    background: rgb(222, 255, 230);
+    margin-left: 100px;
+    margin-right: 300px;
+}
+
+h1{
+    color:steelblue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 18px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+.imagem_padrao{
+    margin-bottom: 30px;
+    width: 300px;
+}
+
+.logo{
+    width: 70px;
+}
